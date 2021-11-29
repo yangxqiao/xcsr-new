@@ -7,7 +7,7 @@ hide_footer: true
 ---
 
 {: .fs-8 .fw-800 .text-green-300 style="font-family: 'Agency FB Bold', arial;"}
-✍️ [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Seyeon Lee***](https://seyeon-lee.github.io/){: target="blank"}, [***Xiaoyang Qiao***](), [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
+✍️ [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Seyeon Lee***](https://seyeon-lee.github.io/){: target="blank"}, [***Xiaoyang Qiao***](https://www.linkedin.com/in/xiaoyang-qiao/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
 🏢 ***in Proc. of ACL 2021***{: .text-red-300}
 <br>
 
