@@ -5,7 +5,7 @@ tagline: XCSR
 email: yuchen.lin@usc.edu, xiaoyanq@usc.edu
 description: >
   The official website of the XCSR datasets.
-baseurl: "/XCSR"
+baseurl: ""
 url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
